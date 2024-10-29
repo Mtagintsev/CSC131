@@ -6,5 +6,3 @@ philip smells
 haha
 
 hi
-.
-I CAN EDIT
